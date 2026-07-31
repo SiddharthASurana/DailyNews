@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Wire — Audio Edition</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-row">
+    <button class="back-btn hidden" id="backBtn" title="Back to editions" aria-label="Back to editions">&larr; Editions</button>
+    <h1>The Daily Wire</h1>
+    <div class="meta" id="dateLine">Audio Edition</div>
+  </div>
+  <div class="section-strip" id="sectionStrip"></div>
+</div>
+
+<!-- ===== EDITION PICKER (first screen) ===== -->
+<div class="edition-picker" id="editionPicker">
+  <p class="picker-intro">Choose an edition to read &amp; listen to:</p>
+  <div class="edition-list" id="editionList">
+    <div class="loading-msg">Loading available editions…</div>
+  </div>
+</div>
+
+<!-- ===== READER (hidden until an edition is picked) ===== -->
+<main id="main" class="hidden"></main>
+
+<div class="dock hidden" id="dock">
+  <div class="dock-inner">
+    <div class="dock-top">
+      <div class="dial-wrap">
+        <div class="dial">
+          <div class="needle" id="needle"></div>
+          <div class="center-dot"></div>
+        </div>
+        <div class="onair" id="onair"></div>
+      </div>
+      <div class="progress-text">
+        <span id="progressCount">– / –</span>
+        <span class="story-title" id="progressTitle">—</span>
+      </div>
+    </div>
+    <div class="controls-row">
+      <button class="ctrl-btn" id="prevBtn" title="Previous section" aria-label="Previous section">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 6h2v12H6zm3.5 6 8.5 6V6z"/></svg>
+      </button>
+      <button class="ctrl-btn play-pause" id="playBtn" title="Play/Pause" aria-label="Play or pause">
+        <svg id="playIcon" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+        <svg id="pauseIcon" viewBox="0 0 24 24" fill="currentColor" style="display:none"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
+      </button>
+      <button class="ctrl-btn" id="nextBtn" title="Next section" aria-label="Next section">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 6h2v12h-2zM6 6l8.5 6L6 18z"/></svg>
+      </button>
+    </div>
+    <div class="settings-row">
+      <label>Voice
+        <select id="voiceSelect"></select>
+      </label>
+      <label>Speed <span class="speed-val" id="speedVal">1.0x</span>
+        <input type="range" id="speedSlider" min="0.6" max="1.8" step="0.1" value="1.0">
+      </label>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
