@@ -1,1 +1,16 @@
-
+{
+  "editions": [
+    {
+      "file": "news290726.json",
+      "date": "2026-07-29",
+      "label": "Wednesday, July 29, 2026",
+      "count": 99
+    },
+    {
+      "file": "news300726.json",
+      "date": "2026-07-30",
+      "label": "Thursday, July 30, 2026",
+      "count": 120
+    }
+  ]
+}
