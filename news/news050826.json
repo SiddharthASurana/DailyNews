@@ -1,0 +1,1300 @@
+{
+  "edition": "The Daily Wire",
+  "date": "2026-08-05",
+  "articles": [
+    {
+      "section": "Front Page",
+      "headline": "Netflix Sees India in Bigger Picture to be a Global Hit",
+      "original": "India is central to the next phase of growth for Netflix, global co-CEO Ted Sarandos said, in the backdrop of moderating subscriber additions in mature Western markets.",
+      "terms": [],
+      "simple": "Netflix's co-CEO says India will drive its next stage of growth as US and European subscriber growth slows down.",
+      "background": "Netflix has spent over a decade building an India business and recently marked 10 years in the country; its leadership has repeatedly said India-made content like local originals is increasingly powering viewership worldwide, not just locally.",
+      "relevance": "Signals more Netflix investment in Indian content, production jobs and possibly pricing changes aimed at Indian subscribers."
+    },
+    {
+      "section": "Front Page",
+      "headline": "JSW, VW Group Plan New Set of Wheels to Drive JV",
+      "original": "JSW Group is reportedly in advanced talks with Volkswagen AG to take a majority stake in Skoda Auto Volkswagen India, the German carmaker's Indian arm that runs the Skoda, VW, Audi, Porsche, Lamborghini and Bentley brands here.",
+      "terms": [
+        {
+          "t": "JV",
+          "d": "Joint venture — a business jointly owned and run by two or more companies."
+        }
+      ],
+      "simple": "Sajjan Jindal's JSW Group may take control of Volkswagen's India business, bringing fresh capital in return for European auto technology.",
+      "background": "JSW already runs MG Motor India as a joint venture with China's SAIC. A VW deal would be its second big move into passenger cars and could make it India's newest major homegrown-style auto player alongside Tata Motors and Mahindra.",
+      "relevance": "Could reshape India's competitive car market and give VW brands a stronger local partner as the company scales back investment in other regions."
+    },
+    {
+      "section": "Front Page",
+      "headline": "L&T Bags ₹15,000cr Adnoc Order",
+      "original": "Larsen & Toubro's offshore hydrocarbon arm, L&T Energy Hydrocarbon Offshore, has won an 'ultra-mega' order worth more than ₹15,000 crore from UAE's ADNOC Offshore for a major offshore oil and gas project in West Asia.",
+      "terms": [
+        {
+          "t": "EPCIC",
+          "d": "Engineering, Procurement, Construction, Installation and Commissioning — the full scope of building and setting up an industrial project."
+        }
+      ],
+      "simple": "L&T will lead a group of companies building and upgrading offshore oil and gas facilities for Abu Dhabi's ADNOC.",
+      "background": "L&T classifies any order above ₹15,000 crore as 'ultra-mega'; this is part of a steady stream of large Middle East energy contracts the company has picked up this year.",
+      "relevance": "A large order win supports L&T's order book and reflects continued Indian engineering-sector demand from Gulf energy majors."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "Digital Arrests: SC tells RBI to Frame SOP on Mule A/Cs",
+      "original": "To curb the rising menace of digital arrests, Supreme Court on Tuesday directed RBI to prepare a standard operating procedure (SOP) within four weeks to deal with mule accounts.",
+      "terms": [
+        {
+          "t": "Digital arrest",
+          "d": "A cyber-fraud scam where scammers pose as police/officials on video calls and coerce victims into transferring money."
+        },
+        {
+          "t": "Mule account",
+          "d": "A bank account used, often unknowingly, to move money obtained through fraud."
+        },
+        {
+          "t": "SOP",
+          "d": "Standard Operating Procedure — a set, official process for handling a situation."
+        }
+      ],
+      "simple": "The Supreme Court has ordered the RBI to draft clear rules within a month for banks to spot and act on 'mule' accounts used to launder scam money, as 'digital arrest' frauds keep rising.",
+      "background": "Digital arrest scams, where fraudsters impersonate law enforcement to frighten victims into transferring savings, have become one of India's fastest-growing cyber-crime categories, prompting repeated government and judicial intervention.",
+      "relevance": "Could tighten how banks monitor suspicious accounts, potentially making it harder to launder scam proceeds and improving fraud recovery odds."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "Despite Swadeshi Push, Anti-Dumping Duties Against Chinese Firms Crawl",
+      "original": "India's push for self-reliant manufacturing has not been matched by speed in imposing anti-dumping duties on Chinese imports, with many such cases moving slowly through the approval process despite the government's 'swadeshi' (self-reliance) rhetoric.",
+      "terms": [
+        {
+          "t": "Anti-dumping duty",
+          "d": "An extra import tax imposed when a country believes foreign goods are being sold below fair market cost, hurting local industry."
+        },
+        {
+          "t": "Swadeshi",
+          "d": "A movement/policy emphasis on buying and producing domestically rather than relying on imports."
+        }
+      ],
+      "simple": "Even though India talks up 'Make in India' and self-reliance, actually approving tariffs to block cheap Chinese imports is happening slowly.",
+      "background": "Anti-dumping investigations in India go through the Directorate General of Trade Remedies and can take many months to over a year, and industry groups have long complained about delays even after duties are recommended.",
+      "relevance": "Matters to Indian manufacturers competing with low-cost Chinese goods, and to the broader China-India trade and economic relationship."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "SC Reserves Verdict on Whether 2-Child Policy Requires Reconsideration",
+      "original": "The Supreme Court has reserved its verdict on a plea challenging whether India's two-child policy — used by some states to bar those with more than two children from contesting local body elections or holding certain government jobs — needs to be reconsidered.",
+      "terms": [],
+      "simple": "The Supreme Court has heard arguments on whether rules that limit some public offices to people with two or fewer children should be revisited, and will announce its decision later.",
+      "background": "Several Indian states (like Rajasthan, Madhya Pradesh, Odisha, Gujarat) have laws disqualifying candidates with more than two children from panchayat and municipal elections, aimed at population control; these laws have faced repeated legal challenges over fairness.",
+      "relevance": "A verdict could affect eligibility rules for local political representation across multiple states."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "'Vulgar' Remarks at Rally: Stalin Jr Held, Quizzed, Granted Station Bail",
+      "original": "Udhayanidhi Stalin, son of Tamil Nadu Chief Minister M K Stalin, was detained and questioned over allegedly vulgar remarks made at a political rally, and was granted station bail.",
+      "terms": [
+        {
+          "t": "Station bail",
+          "d": "Bail granted directly by police at the station for minor offences, without needing to go to court."
+        }
+      ],
+      "simple": "The Tamil Nadu CM's son was briefly held and questioned by police over remarks he made at a rally, then released on bail from the police station itself.",
+      "background": "Udhayanidhi Stalin is a senior DMK leader and Tamil Nadu deputy CM; controversial remarks by prominent politicians frequently trigger police complaints in India's charged political climate.",
+      "relevance": "A minor but politically sensitive episode involving Tamil Nadu's ruling family ahead of state political contests."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "Indian-Flagged Vessel Attacked in Red Sea, All 13 Indians Rescued: MEA",
+      "original": "An Indian-flagged vessel came under attack in the Red Sea; all 13 Indian crew members aboard were safely rescued, India's Ministry of External Affairs said.",
+      "terms": [
+        {
+          "t": "MEA",
+          "d": "Ministry of External Affairs, India's foreign ministry."
+        }
+      ],
+      "simple": "A ship flying the Indian flag was attacked in the Red Sea, but all 13 Indians on board were rescued unhurt, the government says.",
+      "background": "The Red Sea has seen repeated attacks on commercial shipping, largely blamed on Houthi rebels in Yemen targeting vessels they associate with Israel, the US or their allies, disrupting a key global trade route since late 2023.",
+      "relevance": "Highlights continued risk to Indian sailors and shipping through a critical global trade corridor."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "Punjab Police Busts 2 ISI-Backed Cross-Border Terror Modules",
+      "original": "Punjab Police say they have busted two terror modules allegedly backed by Pakistan's ISI intelligence agency operating across the border.",
+      "terms": [
+        {
+          "t": "ISI",
+          "d": "Inter-Services Intelligence — Pakistan's premier intelligence agency."
+        }
+      ],
+      "simple": "Punjab Police say they've broken up two networks allegedly linked to Pakistani intelligence that were planning or supporting terror activity across the border.",
+      "background": "Punjab, bordering Pakistan, periodically sees module busts tied to smuggling of weapons/drugs and militancy allegedly facilitated by cross-border handlers, part of a long-running security concern in the state.",
+      "relevance": "Relevant to India-Pakistan border security and Punjab's internal law-and-order situation."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "6 NEET Candidates Move SC Claiming Discrepancies in OMR Answer Sheets",
+      "original": "Six candidates who took the NEET medical entrance exam have moved the Supreme Court alleging discrepancies in their OMR answer sheets.",
+      "terms": [
+        {
+          "t": "NEET",
+          "d": "National Eligibility cum Entrance Test, India's exam for admission to medical/dental courses."
+        },
+        {
+          "t": "OMR",
+          "d": "Optical Mark Recognition sheet — the bubble-sheet used to record multiple-choice answers."
+        }
+      ],
+      "simple": "Six NEET exam-takers say there were errors in how their answer sheets were scored, and want the Supreme Court to intervene.",
+      "background": "NEET has faced repeated controversies over the past two years including a major 2024 paper-leak scandal, leaving the exam and its administering body (NTA) under continued scrutiny.",
+      "relevance": "Adds to ongoing questions about NEET's exam integrity, affecting lakhs of aspiring medical students."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "12-Member Panel to Review NEET PG, Centre tells SC",
+      "original": "The central government has told the Supreme Court that a 12-member panel will review the conduct of NEET-PG, the entrance exam for postgraduate medical courses.",
+      "terms": [
+        {
+          "t": "NEET-PG",
+          "d": "The national entrance exam for postgraduate (specialist) medical courses in India."
+        }
+      ],
+      "simple": "The government says it's setting up a 12-person panel to examine problems with the postgraduate medical entrance exam.",
+      "background": "NEET-PG has faced complaints in recent cycles over exam scheduling, technical glitches and normalization of scores across multiple shifts.",
+      "relevance": "Affects thousands of doctors seeking postgraduate specialization seats."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "Lok Sabha Clears Appropriation Bill in 3 Minutes",
+      "original": "The Lok Sabha passed the Appropriation Bill in just three minutes, with little debate.",
+      "terms": [
+        {
+          "t": "Appropriation Bill",
+          "d": "A bill that legally authorises the government to withdraw money from the Consolidated Fund of India to meet approved expenditure."
+        }
+      ],
+      "simple": "Parliament's lower house approved the bill that lets the government actually spend the money in the budget — passed almost instantly, with minimal discussion.",
+      "background": "Quick passage of appropriation and finance bills is common in Indian Parliament, especially during logjams over other issues, and is often criticised by opposition MPs as inadequate scrutiny of public spending.",
+      "relevance": "Reflects the state of parliamentary functioning and scrutiny of government spending this session."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "274 Fugitives Brought Back from 36 Nations Since '19",
+      "original": "The government says 274 fugitives have been extradited or deported back to India from 36 countries since 2019.",
+      "terms": [],
+      "simple": "Since 2019, Indian authorities have managed to bring back 274 people wanted in India from 36 different countries.",
+      "background": "India has stepped up extradition efforts against economic offenders and criminal fugitives in recent years, including high-profile cases involving businessmen and gangsters.",
+      "relevance": "Reflects India's international law-enforcement cooperation and pursuit of fugitives, including economic offenders."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "A Day After Bankipur Shock and Datia Setback PM Meets Former CMs of Bihar, Madhya Pradesh",
+      "original": "A day after unexpected electoral setbacks in Bihar's Bankipur seat and Madhya Pradesh's Datia constituency, the Prime Minister met former chief ministers of the two states.",
+      "terms": [],
+      "simple": "After the BJP or its allies faced surprise losses in two seats, the PM held meetings with former state chief ministers, likely to discuss strategy.",
+      "background": "Bankipur and Datia are traditionally considered strongholds for the ruling coalition, so unexpected results there would be seen as politically significant setbacks worth a course-correction discussion.",
+      "relevance": "Signals possible political recalibration ahead of upcoming state elections."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "Women's Quota-Delimitation Bill Remains on The Table",
+      "original": "The bill linking women's reservation in Parliament and state assemblies to the pending delimitation (redrawing) of constituencies remains unresolved and has not moved forward.",
+      "terms": [
+        {
+          "t": "Delimitation",
+          "d": "The process of redrawing electoral constituency boundaries, typically based on updated population data."
+        }
+      ],
+      "simple": "A law meant to reserve seats for women in Parliament and state assemblies is still stuck because it depends on a separate, still-pending redrawing of constituency boundaries.",
+      "background": "The Women's Reservation Act (Nari Shakti Vandan Adhiniyam) was passed in 2023 but its implementation is tied to the next delimitation exercise, expected only after the next census, making the reservation years away in practice.",
+      "relevance": "Affects the timeline for actual increase in women's political representation in India."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "Supreme Court Notice to Govt on Plea Against CAPF Act",
+      "original": "The Supreme Court has issued a notice to the government on a petition challenging the CAPF Act.",
+      "terms": [
+        {
+          "t": "CAPF",
+          "d": "Central Armed Police Forces — India's central paramilitary forces such as CRPF, BSF, CISF, ITBP, SSB."
+        }
+      ],
+      "simple": "The Supreme Court wants the government's response to a legal challenge against a law governing India's central paramilitary forces.",
+      "background": "CAPF personnel and their service conditions periodically come up for legal challenge on issues like promotions, benefits parity with the armed forces, and disciplinary powers.",
+      "relevance": "Could affect service conditions for personnel across India's major paramilitary forces."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "NCPI Fault Lines Appear as 3 MPs Skip NDA Meet Again",
+      "original": "Cracks are appearing within the ruling NDA coalition (referred to here as NCPI/NDA) after three of its MPs skipped a coalition meeting for a second time.",
+      "terms": [
+        {
+          "t": "NDA",
+          "d": "National Democratic Alliance — the ruling coalition of parties led by the BJP."
+        }
+      ],
+      "simple": "Tension is showing inside the ruling coalition after three MPs stayed away from a coalition meeting for the second time running.",
+      "background": "Coalition management has become more important for the BJP-led NDA in recent years as it relies more heavily on allied parties, making repeated no-shows by MPs a notable signal of friction.",
+      "relevance": "Worth watching as a sign of possible coalition strain that could affect legislative arithmetic."
+    },
+    {
+      "section": "Pure Politics",
+      "headline": "Rajya Sabha Passes Births and Deaths Bill",
+      "original": "The Rajya Sabha (upper house of Parliament) has passed a bill related to the registration of births and deaths.",
+      "terms": [
+        {
+          "t": "Rajya Sabha",
+          "d": "The upper house of India's Parliament."
+        }
+      ],
+      "simple": "Parliament's upper house has approved a law updating how births and deaths are registered.",
+      "background": "India amended its Registration of Births and Deaths Act in 2023 to allow the birth-and-death database to serve as a base for updating other records like voter lists, passports and Aadhaar; further legislative tweaks build on that framework.",
+      "relevance": "Affects how vital civil records are maintained and linked to other government databases nationwide."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "Delhi-NCR Leads in Logistics Leasing in H1",
+      "original": "Leasing of logistics and industrial space in India's top eight cities is estimated to have increased 18% y-o-y and 2% sequentially in the first half of 2026 to a new half-yearly record of 36.2 million sq ft.",
+      "terms": [
+        {
+          "t": "H1",
+          "d": "First half of the calendar/financial year (typically January–June)."
+        },
+        {
+          "t": "y-o-y",
+          "d": "Year-on-year — compared with the same period a year earlier."
+        }
+      ],
+      "simple": "Warehousing and logistics space rented out across India's biggest cities hit a record high in the first half of 2026, with the Delhi-NCR region leading the pack.",
+      "background": "Growth in e-commerce, quick-commerce and manufacturing has been driving strong demand for organised warehousing in India over the past few years.",
+      "relevance": "Reflects continued strength in India's e-commerce and manufacturing-linked real estate demand."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "Limited Supply Lifts Rentals in Delhi's Lutyens Bungalow Zone",
+      "original": "A shortage of available bungalows in Delhi's prestigious Lutyens Zone is pushing rental rates higher in the area.",
+      "terms": [
+        {
+          "t": "Lutyens Zone",
+          "d": "Central Delhi's elite, colonial-era planned area, home to government bungalows and India's political elite."
+        }
+      ],
+      "simple": "There aren't enough bungalows available to rent in Delhi's most exclusive government zone, so rents there are climbing.",
+      "background": "The Lutyens Bungalow Zone is tightly controlled by the government and mostly allotted to senior officials, ministers and a small number of private owners, making it one of India's most restricted and expensive real-estate markets.",
+      "relevance": "A niche but telling indicator of scarcity-driven pricing in India's most tightly controlled property market."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "Air India Phuket-Delhi Flight Hits Severe Turbulence",
+      "original": "An Air India flight travelling from Phuket, Thailand, to Delhi encountered severe turbulence.",
+      "terms": [],
+      "simple": "An Air India flight from Thailand to Delhi went through a rough patch of severe turbulence mid-flight.",
+      "background": "Turbulence incidents on commercial flights have drawn heightened attention globally in recent years after several injury-causing episodes, prompting airlines to review seatbelt and service protocols.",
+      "relevance": "A passenger-safety incident that will likely prompt scrutiny of Air India's in-flight safety response."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "1.48b Promotional Calls Blocked in Apr-Jun: Trai",
+      "original": "India's telecom regulator TRAI says 1.48 billion unsolicited promotional/spam calls were blocked between April and June this year.",
+      "terms": [
+        {
+          "t": "TRAI",
+          "d": "Telecom Regulatory Authority of India."
+        }
+      ],
+      "simple": "TRAI blocked nearly 1.5 billion spam and telemarketing calls in just three months this year.",
+      "background": "TRAI has tightened rules against unregistered telemarketers and pesky spam/scam calls in recent years, including new caller-ID and traceability requirements for telecom operators.",
+      "relevance": "Matters to consumers dealing with constant spam calls and to telecom operators enforcing the new rules."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "Assured Prices, Subsidies to Spur CBG Output",
+      "original": "Government moves to guarantee prices and offer subsidies are expected to boost output of compressed biogas (CBG).",
+      "terms": [
+        {
+          "t": "CBG",
+          "d": "Compressed Bio-Gas — a renewable fuel made from organic waste, seen as a cleaner alternative to CNG."
+        }
+      ],
+      "simple": "New price guarantees and subsidies from the government are meant to encourage more companies to produce compressed biogas, a cleaner fuel made from waste.",
+      "background": "India's SATAT scheme and related policies aim to scale up CBG production as part of the country's push toward energy security and reducing reliance on imported fossil fuels.",
+      "relevance": "Relevant to India's clean-energy transition and rural/agri-waste-based fuel economy."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "Pidilite Reports 30% Rise in Q1 Net",
+      "original": "Pidilite Industries, the maker of Fevicol and other construction/consumer chemical brands, reported a 30% rise in net profit for the first quarter.",
+      "terms": [
+        {
+          "t": "Q1",
+          "d": "First quarter of the financial year."
+        }
+      ],
+      "simple": "Pidilite's quarterly profit jumped 30% from a year earlier.",
+      "background": "Pidilite is one of India's largest FMCG/chemicals companies, best known for adhesives brand Fevicol, and its results are often read as an indicator of construction and consumer-goods demand.",
+      "relevance": "A strong earnings signal for India's construction-linked consumer goods sector."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "Meta to Meet MeitY Officials on CSAM, AI Content, Compliance",
+      "original": "Meta representatives are set to meet officials from India's Ministry of Electronics and IT (MeitY) to discuss child sexual abuse material (CSAM) on its platforms, AI-generated content, and broader regulatory compliance.",
+      "terms": [
+        {
+          "t": "MeitY",
+          "d": "Ministry of Electronics and Information Technology, India's IT ministry."
+        },
+        {
+          "t": "CSAM",
+          "d": "Child Sexual Abuse Material — illegal content depicting the sexual abuse of minors."
+        }
+      ],
+      "simple": "Facebook and Instagram's parent company Meta will meet Indian IT ministry officials to address concerns about child-safety content on its platforms, AI content moderation, and compliance with Indian rules.",
+      "background": "This follows fresh scrutiny of Meta in India after BBC reporting alleged that paid Instagram ads were being used to promote child sexual abuse material, which prompted formal notices and inquiries from India's child-rights body (NCPCR) and human rights commission (NHRC).",
+      "relevance": "A serious child-safety and platform-accountability issue with regulatory consequences for one of India's largest social media companies."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "Macquarie in Advanced Talks to Buy Fourth Partner Energy",
+      "original": "Australian financial giant Macquarie is reportedly in advanced talks to acquire Fourth Partner Energy, an Indian renewable energy company.",
+      "terms": [],
+      "simple": "Macquarie is close to a deal to buy Fourth Partner Energy, a solar/renewable power company operating in India.",
+      "background": "Fourth Partner Energy is one of India's notable commercial and industrial rooftop/renewable energy solutions providers, and has previously attracted investment from global funds as India's clean-energy sector draws heavy foreign capital.",
+      "relevance": "Reflects continued global investor appetite for India's renewable energy sector."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "Overall Insurance Pie has not Expanded as Expected",
+      "original": "India's overall insurance market has not grown as much as industry expectations, despite various government and regulatory pushes.",
+      "terms": [],
+      "simple": "Even with efforts to get more Indians insured, the total size of the insurance market hasn't grown as fast as hoped.",
+      "background": "India's insurance penetration (premiums as a share of GDP) remains low compared with global peers, and regulator IRDAI has set an ambitious 'Insurance for All by 2047' target that industry watchers say needs faster growth to achieve.",
+      "relevance": "Relevant to insurers, policymakers and the broader financial-inclusion push in India."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "NCPCR Begins Inquiry Into Alleged Child Porn Ads on Instagram",
+      "original": "India's child rights body NCPCR has begun a formal inquiry into allegations that paid advertisements on Instagram were being used to promote child sexual abuse material.",
+      "terms": [
+        {
+          "t": "NCPCR",
+          "d": "National Commission for Protection of Child Rights, India's statutory child-rights watchdog."
+        }
+      ],
+      "simple": "India's child-protection watchdog has opened a formal investigation into reports that Instagram carried paid ads linked to child sexual abuse material.",
+      "background": "The inquiry follows a BBC World Service investigation and a July notice to Meta; the National Human Rights Commission has separately ordered police to investigate whether Meta met its legal reporting obligations under India's child-protection law (POCSO).",
+      "relevance": "A serious child-safety matter with potential legal and regulatory consequences for Meta in India — flagged as a sensitive topic."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "IndiGo's Strongest Days are Ahead: Walsh",
+      "original": "Willie Walsh, head of global airline body IATA, said IndiGo's strongest days are still ahead of it.",
+      "terms": [
+        {
+          "t": "IATA",
+          "d": "International Air Transport Association, the global airline industry body."
+        }
+      ],
+      "simple": "The global airline industry's top representative says India's biggest airline, IndiGo, has its best growth yet to come.",
+      "background": "IndiGo has been rapidly expanding its international routes and widebody fleet, and commands the majority of India's booming domestic air-travel market.",
+      "relevance": "A bullish signal for India's fast-growing aviation sector."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "Just 18% of Sewerage Projects Completed in 5 Years under AMRUT 2.0",
+      "original": "Only 18% of sewerage projects sanctioned under the government's AMRUT 2.0 urban infrastructure scheme have been completed in five years.",
+      "terms": [
+        {
+          "t": "AMRUT",
+          "d": "Atal Mission for Rejuvenation and Urban Transformation — a central government scheme to improve urban infrastructure like water and sewerage."
+        }
+      ],
+      "simple": "Five years into a major government scheme to fix city sewage systems, fewer than one in five planned projects are actually finished.",
+      "background": "AMRUT 2.0, launched in 2021, aims for universal water supply and sewerage coverage in India's cities; slow execution of urban infrastructure projects has been a recurring criticism across such schemes.",
+      "relevance": "Highlights a gap between policy ambition and on-ground execution in urban sanitation infrastructure."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "'With 31-Billion Daily Cyber Attacks, Global Defences Getting Maxed Out'",
+      "original": "A cybersecurity industry figure warned that the world is now seeing roughly 31 billion cyberattacks a day, pushing global cyber-defence capacity to its limits.",
+      "terms": [],
+      "simple": "An industry expert says the sheer scale of daily cyberattacks worldwide — around 31 billion — is overwhelming existing digital defences.",
+      "background": "Automated and AI-assisted attack tools have sharply increased the volume of cyberattacks in recent years, prompting cybersecurity firms and governments to push AI-based defence systems in response.",
+      "relevance": "Relevant to enterprises and governments assessing cybersecurity investment and risk."
+    },
+    {
+      "section": "Companies: Pursuit of Profit",
+      "headline": "AI to Deflate IT Revenue Past 30%: Persistent CEO Kalra",
+      "original": "Persistent Systems CEO Sandeep Kalra warned that AI-driven efficiency could shrink traditional IT services revenue by more than 30%.",
+      "terms": [],
+      "simple": "The head of IT firm Persistent Systems says AI could cut into more than 30% of the revenue Indian IT companies currently earn from traditional services work.",
+      "background": "India's $250-billion-plus IT services industry is under pressure to reinvent its business model as AI tools automate coding, testing and support work that used to require large billed teams — a central worry across the sector's leadership this year.",
+      "relevance": "A significant warning for India's giant IT services sector and the millions employed by it."
+    },
+    {
+      "section": "The Edit Page",
+      "headline": "Untruth Unsocial, UnPOTUS, UnDC",
+      "original": "Apropos 'Will He, Won't He, Will He, Won't He...?' (Just In Jest, Aug 4), Donald Trump treats politics as a trapeze, swinging effortlessly from one extreme to the other without appearing to change direction.",
+      "terms": [
+        {
+          "t": "POTUS",
+          "d": "President Of The United States."
+        }
+      ],
+      "simple": "An opinion column argues that US President Donald Trump keeps flip-flopping dramatically on issues while managing to look consistent to his supporters.",
+      "background": "This is a response/follow-up to an earlier 'Just In Jest' column published August 4, part of the Economic Times' regular satirical political commentary.",
+      "relevance": "Opinion piece — presents the columnist's take on Trump's political style, not a policy or market-moving news item."
+    },
+    {
+      "section": "The Edit Page",
+      "headline": "To Ipo, or to Ipostpone?",
+      "original": "An opinion column, playing on Hamlet's 'to be or not to be,' on whether Indian companies eyeing IPOs should go ahead now or wait, given current market volatility and a very active new-listings pipeline.",
+      "terms": [
+        {
+          "t": "IPO",
+          "d": "Initial Public Offering — a company's first sale of shares to the public."
+        }
+      ],
+      "simple": "A column weighing whether companies planning stock-market listings should launch now or delay, given how crowded and choppy the IPO market currently is.",
+      "background": "India has seen a record wave of IPOs recently (including Dhoot Transmission's issue reported elsewhere in this edition), alongside bouts of stock market volatility, making listing-timing a live debate for company boards and bankers.",
+      "relevance": "Opinion piece on IPO market strategy; general context inferred from the day's heavy IPO news flow, as a direct source for this specific column could not be found."
+    },
+    {
+      "section": "The Edit Page",
+      "headline": "Whole Lotta Energy in This Room",
+      "original": "An opinion column, punning on Led Zeppelin's 'Whole Lotta Love,' on the surge in energy demand and investment — likely tied to AI data centres and renewable power expansion covered elsewhere in this edition.",
+      "terms": [],
+      "simple": "A column about the intense new demand for electricity, likely driven by AI data centres and clean-energy investment.",
+      "background": "Global electricity demand for AI computing and data centres has become a major economic story in 2026, tying into other items in this edition on renewable energy capacity and data-centre deals.",
+      "relevance": "Opinion piece; topic inferred from surrounding energy and AI coverage, as a direct source for this specific column could not be found."
+    },
+    {
+      "section": "The Edit Page",
+      "headline": "Trouble in Bibi-Bubba Paradise",
+      "original": "An opinion column, using nicknames for Israeli PM Benjamin 'Bibi' Netanyahu and a reference to a Trump-era or US political figure, on friction in a key geopolitical relationship.",
+      "terms": [],
+      "simple": "A commentary piece about tension between political figures — likely touching on Israel-related diplomacy given the 'Bibi' reference.",
+      "background": "'Bibi' is the well-known nickname for Israeli Prime Minister Benjamin Netanyahu; the exact subject and second figure referenced in 'Bubba' could not be confirmed from available sources.",
+      "relevance": "Opinion piece; specific content could not be verified via search, so this description is necessarily general."
+    },
+    {
+      "section": "The Edit Page",
+      "headline": "Moving the Mountains",
+      "original": "An opinion column on a large-scale undertaking or reform effort, title suggesting an ambitious or difficult task being tackled.",
+      "terms": [],
+      "simple": "A commentary piece about a big, difficult challenge or reform — the exact subject could not be confirmed.",
+      "background": "General context only; a direct source for this specific column could not be found via search.",
+      "relevance": "Opinion piece; content unverified."
+    },
+    {
+      "section": "The Edit Page",
+      "headline": "India Should Prepare For That Poles Vault",
+      "original": "An opinion column, punning on the sport 'pole vault,' likely discussing India's readiness for a strategic shift — possibly geopolitical (relations with Poland/Europe) or economic.",
+      "terms": [],
+      "simple": "A commentary piece urging India to get ready for a major shift, using a pole-vault sports pun as its title.",
+      "background": "General context only; a direct source for this specific column could not be found via search.",
+      "relevance": "Opinion piece; content unverified."
+    },
+    {
+      "section": "The Edit Page",
+      "headline": "Everyone's an Idiot or A Maniac (Except You)",
+      "original": "An opinion column, likely a wry commentary on polarised public discourse and self-righteousness in politics or on social media.",
+      "terms": [],
+      "simple": "A commentary piece poking fun at how everyone online seems to think they're the only reasonable person around.",
+      "background": "General context only; a direct source for this specific column could not be found via search.",
+      "relevance": "Opinion piece; content unverified."
+    },
+    {
+      "section": "The Edit Page",
+      "headline": "Smells Like Teen Spirit in Boardrooms",
+      "original": "An opinion column, punning on Nirvana's 'Smells Like Teen Spirit,' likely on the rise of younger executives, founders or a youthful shift in corporate culture.",
+      "terms": [],
+      "simple": "A commentary piece about younger energy or younger leaders showing up in corporate boardrooms.",
+      "background": "General context only; a direct source for this specific column could not be found via search.",
+      "relevance": "Opinion piece; content unverified."
+    },
+    {
+      "section": "The Edit Page",
+      "headline": "Satyam Shivam Sundaram",
+      "original": "An opinion column titled after the classic Hindi philosophical phrase/1978 Bollywood film meaning 'Truth, God, Beauty,' likely used allegorically for a current issue.",
+      "terms": [
+        {
+          "t": "Satyam Shivam Sundaram",
+          "d": "A Sanskrit phrase meaning 'Truth, Goodness, Beauty,' also the title of a well-known 1978 Hindi film."
+        }
+      ],
+      "simple": "A commentary piece borrowing a classic Hindi phrase meaning 'truth, goodness, beauty' as a lens on some current topic.",
+      "background": "General context only; a direct source for this specific column could not be found via search.",
+      "relevance": "Opinion piece; content unverified."
+    },
+    {
+      "section": "Companies",
+      "headline": "Gains from Buyback of Unexercised Esops Taxable as LTCG, Not Salary Income: ITAT",
+      "original": "The Income Tax Appellate Tribunal (ITAT) in Bengaluru held that vested employee stock options do not become taxable as salary perquisites until they are exercised.",
+      "terms": [
+        {
+          "t": "ESOP",
+          "d": "Employee Stock Option Plan — the right given to employees to buy company shares at a set price."
+        },
+        {
+          "t": "LTCG",
+          "d": "Long-Term Capital Gains — profit from selling an asset held beyond a specified period, taxed at a different (often lower) rate than income."
+        },
+        {
+          "t": "ITAT",
+          "d": "Income Tax Appellate Tribunal — a quasi-judicial body that hears income-tax dispute appeals in India."
+        }
+      ],
+      "simple": "A tax tribunal ruled that if a company buys back employees' unexercised stock options, the money employees get is taxed as investment gains (LTCG), not as salary — which usually means a lower tax rate.",
+      "background": "ESOP taxation has been a contentious area for Indian startup employees, since salary income is taxed at higher slab rates than long-term capital gains; this ruling favours employees receiving ESOP buyback payouts.",
+      "relevance": "A favourable tax precedent for startup and tech employees holding stock options that get bought back before exercise."
+    },
+    {
+      "section": "Brands: Creating Desire",
+      "headline": "USFDA Okays Zydus' Generic Imaging Agent",
+      "original": "Zydus Lifesciences on Tuesday said it has received final approval from the US health regulator for its generic version of indocyanine green for injection, an optical imaging agent indicated for fluorescence imaging.",
+      "terms": [
+        {
+          "t": "USFDA",
+          "d": "US Food and Drug Administration, America's drug regulator."
+        }
+      ],
+      "simple": "Indian drugmaker Zydus got US approval to sell a generic version of a dye used in medical imaging during surgeries.",
+      "background": "Indocyanine green is used by surgeons for fluorescence-guided imaging (e.g., checking blood flow or locating tumours); US approvals for generics are a routine but steady revenue stream for large Indian pharma exporters like Zydus.",
+      "relevance": "Adds to Zydus's US generics pipeline and export revenue."
+    },
+    {
+      "section": "Brands: Creating Desire",
+      "headline": "Dabur Seeking Legal Advice after FSSAI Move",
+      "original": "Consumer goods company Dabur is seeking legal advice after a move by India's food safety regulator, FSSAI, affecting its products.",
+      "terms": [
+        {
+          "t": "FSSAI",
+          "d": "Food Safety and Standards Authority of India, the national food regulator."
+        }
+      ],
+      "simple": "Dabur is consulting lawyers after India's food safety regulator took some regulatory action affecting one or more of its products.",
+      "background": "FSSAI periodically flags or restricts labelling, additives or health claims for packaged food and consumer brands; companies frequently contest such rulings.",
+      "relevance": "Could affect Dabur's product labelling, marketing claims, or specific product lines pending resolution."
+    },
+    {
+      "section": "Brands: Creating Desire",
+      "headline": "Suits & Sayings",
+      "original": "A recurring column of short business-world quotes and quips from executives and public figures; no single news item.",
+      "terms": [],
+      "simple": "A regular feature collecting notable quotes from business leaders — not a standalone news story.",
+      "background": "'Suits & Sayings' is a recurring quotes column in this edition rather than a reported article, consolidated here as no individual headline content is available.",
+      "relevance": "Not independently newsworthy; a regular feature of the paper."
+    },
+    {
+      "section": "Brands: Creating Desire",
+      "headline": "Airtel Q1 Net Up 35% on Postpaid, Data User Surge",
+      "original": "Bharti Airtel reported a 35% rise in quarterly net profit, driven by growth in postpaid subscribers and data usage.",
+      "terms": [],
+      "simple": "Airtel's profit jumped 35% in the latest quarter thanks to more people signing up for postpaid plans and using more mobile data.",
+      "background": "India's telecom sector has seen steady average-revenue-per-user (ARPU) growth after past tariff hikes, with Airtel and Jio competing to add higher-value postpaid and data customers.",
+      "relevance": "A strong quarter for India's second-largest telecom operator."
+    },
+    {
+      "section": "Brands: Creating Desire",
+      "headline": "Value Meals, Store Traffic Drive QSR Chains' Recovery",
+      "original": "India's quick-service restaurant (QSR) chains are recovering on the back of value-meal offerings and improving store footfall.",
+      "terms": [
+        {
+          "t": "QSR",
+          "d": "Quick Service Restaurant — fast-food chains like McDonald's, Domino's, KFC."
+        }
+      ],
+      "simple": "Fast-food chains in India are bouncing back as cheaper meal deals bring more customers into stores.",
+      "background": "QSR chains had a slow patch amid inflation-hit consumer spending over the past couple of years; discount-led 'value meal' strategies have become a common recovery playbook globally and in India.",
+      "relevance": "Signals improving discretionary consumer spending in India's food-service sector."
+    },
+    {
+      "section": "Brands: Creating Desire",
+      "headline": "Marico to Prioritise Margins over Volumes in Certain Segments",
+      "original": "FMCG company Marico says it will prioritise profit margins over sales volume growth in some of its product segments.",
+      "terms": [
+        {
+          "t": "FMCG",
+          "d": "Fast-Moving Consumer Goods — everyday packaged products like soaps, food, hair oil."
+        }
+      ],
+      "simple": "Marico (maker of Parachute, Saffola) says it will focus more on making a healthy margin than on just selling more units in certain categories.",
+      "background": "Rising input costs (like copra/coconut oil prices for Marico) have periodically squeezed FMCG margins in India, pushing companies to choose between raising prices (protecting margin) or holding prices (protecting volume/market share).",
+      "relevance": "A strategic signal about pricing and profitability trends in India's consumer goods sector."
+    },
+    {
+      "section": "Brands: Creating Desire",
+      "headline": "Japan's Takeda Bets on Dengue Vax to Reshape India Playbook",
+      "original": "Japanese pharma major Takeda is betting on its dengue vaccine to reshape its strategy in the Indian market.",
+      "terms": [
+        {
+          "t": "Vax",
+          "d": "Common shorthand for vaccine."
+        }
+      ],
+      "simple": "Takeda is counting on its dengue vaccine to become a bigger part of its India business plans.",
+      "background": "Dengue remains a major seasonal public health burden in India, and Takeda's dengue vaccine (Qdenga) has been rolling out in various global markets, making India — with its large disease burden — a key target market.",
+      "relevance": "Relevant to India's public health landscape and the global dengue-vaccine rollout."
+    },
+    {
+      "section": "Brands: Creating Desire",
+      "headline": "Nestle Flags Moderation in Short-term Growth Amid Inflation, El Nino Effect",
+      "original": "Nestle has flagged a slowdown in near-term growth, citing inflation and the El Nino weather pattern's effect on input costs and consumer demand.",
+      "terms": [
+        {
+          "t": "El Nino",
+          "d": "A climate pattern that periodically warms parts of the Pacific Ocean, disrupting weather and crop yields worldwide."
+        }
+      ],
+      "simple": "Nestle says growth will slow a bit in the near term because of price inflation and weather-related disruptions affecting costs and buying patterns.",
+      "background": "El Nino-linked weather swings have periodically hurt Indian agricultural output and food/commodity prices, squeezing FMCG margins and dampening rural consumer demand.",
+      "relevance": "A cautious signal from a bellwether global consumer goods company about near-term Indian demand."
+    },
+    {
+      "section": "Brands: Creating Desire",
+      "headline": "IPA Seeks to Regularise 'Legacy' Drugs",
+      "original": "The Indian Pharmaceutical Alliance (IPA) is pushing for regulatory 'regularisation' of older, long-marketed ('legacy') drug formulations.",
+      "terms": [
+        {
+          "t": "IPA",
+          "d": "Indian Pharmaceutical Alliance, an industry body representing large domestic drugmakers."
+        }
+      ],
+      "simple": "India's top pharma industry body wants regulators to formally validate older drug combinations that have been sold for years without updated approvals.",
+      "background": "India has many 'fixed-dose combination' drugs approved decades ago under looser rules; regulators have periodically moved to ban or review such legacy combinations for safety, prompting industry pushback.",
+      "relevance": "Could affect the availability and regulatory status of many long-sold Indian drug brands."
+    },
+    {
+      "section": "Brands: Creating Desire",
+      "headline": "Delhi High Court Closes Contempt Case Against SpiceJet Chairman",
+      "original": "The Delhi High Court has closed a contempt-of-court case against SpiceJet's chairman.",
+      "terms": [
+        {
+          "t": "Contempt case",
+          "d": "Legal proceedings for disobeying or disrespecting a court's orders."
+        }
+      ],
+      "simple": "A court case accusing SpiceJet's chairman of disobeying an earlier court order has now been closed.",
+      "background": "SpiceJet has faced multiple legal disputes over unpaid dues to lessors and vendors in recent years amid its broader financial troubles, several of which have involved contempt proceedings over compliance with court-ordered payments.",
+      "relevance": "A positive legal development for SpiceJet's leadership amid the airline's ongoing financial and legal challenges."
+    },
+    {
+      "section": "Brands: Creating Desire",
+      "headline": "Irdai told to Draw Up Plan to Make 3rd-party Cover Must for Fuel Purchase",
+      "original": "Insurance regulator IRDAI has been asked to draw up a plan to make third-party motor insurance mandatory at the point of buying fuel.",
+      "terms": [
+        {
+          "t": "IRDAI",
+          "d": "Insurance Regulatory and Development Authority of India."
+        },
+        {
+          "t": "Third-party cover",
+          "d": "Motor insurance that compensates other people/property if you cause an accident, distinct from cover for your own vehicle."
+        }
+      ],
+      "simple": "Regulators want a plan requiring drivers to show valid third-party insurance before they can buy fuel, to catch uninsured vehicles.",
+      "background": "A large share of vehicles on Indian roads reportedly lack mandatory third-party insurance despite it being a legal requirement, and authorities have periodically explored enforcement mechanisms like this to improve compliance.",
+      "relevance": "Could directly affect vehicle owners and fuel retailers if implemented, and would boost third-party insurance compliance and insurer revenues."
+    },
+    {
+      "section": "Et Markets",
+      "headline": "Closing Auction Keeps Traders on Edge as Divergence Persists",
+      "original": "The divergence between Sensex and Nifty levels persisted for the second day on Tuesday as market participants continued to grapple with confusion around the rollout of the closing auction system launched the previous day.",
+      "terms": [
+        {
+          "t": "Closing auction",
+          "d": "A mechanism where a stock's final trading price is set through a batch auction at market close, rather than the last regular trade."
+        },
+        {
+          "t": "Sensex/Nifty",
+          "d": "India's two benchmark stock market indices, run by the BSE and NSE exchanges respectively."
+        }
+      ],
+      "simple": "India's stock exchanges just rolled out a new way of setting closing prices, and traders are still confused by mismatches it's causing between the Sensex and Nifty.",
+      "background": "Many major global exchanges use closing auctions to reduce price manipulation and volatility at the close; India's exchanges introduced this only recently, and early rollout hiccups are common with such structural market changes.",
+      "relevance": "Matters to all stock market participants relying on accurate, comparable closing prices for trading and settlement."
+    },
+    {
+      "section": "Et Markets",
+      "headline": "Nabard Cancels ₹8k-cr Bond Issue on High-yield Bids",
+      "original": "NABARD cancelled a planned ₹8,000-crore bond issue after investors demanded yields it considered too high.",
+      "terms": [
+        {
+          "t": "NABARD",
+          "d": "National Bank for Agriculture and Rural Development."
+        },
+        {
+          "t": "Bond yield",
+          "d": "The effective annual return an investor demands to lend money via a bond."
+        }
+      ],
+      "simple": "The rural development bank scrapped an ₹8,000 crore bond sale because investors wanted a higher interest rate than it was willing to pay.",
+      "background": "Government-backed institutions like NABARD regularly raise funds via bonds; cancelling an issue signals the issuer sees current market interest-rate demands as too costly.",
+      "relevance": "A signal about current borrowing costs and investor appetite for high-grade Indian institutional debt."
+    },
+    {
+      "section": "Et Markets",
+      "headline": "Rupee Steady at 95.37 Ahead of RBI Policy",
+      "original": "The Indian rupee held steady at 95.37 against the US dollar ahead of the Reserve Bank of India's upcoming monetary policy announcement.",
+      "terms": [
+        {
+          "t": "RBI policy",
+          "d": "The Reserve Bank of India's periodic interest-rate and monetary policy decision."
+        }
+      ],
+      "simple": "The rupee stayed flat against the dollar as traders wait to see what the RBI decides on interest rates.",
+      "background": "Currency markets often move cautiously ahead of central bank policy decisions, since rate changes affect capital flows and the currency's relative attractiveness.",
+      "relevance": "Relevant to importers, exporters, and anyone tracking India's currency stability."
+    },
+    {
+      "section": "Et Markets",
+      "headline": "Dhoot Transmission IPO Priced at ₹829-871",
+      "original": "Auto components maker Dhoot Transmission has fixed a price band of ₹829-871 per share for its ₹3,067-crore IPO, which opens August 10 and closes August 12.",
+      "terms": [],
+      "simple": "Wiring-harness maker Dhoot Transmission has set its share price range for a roughly ₹3,067 crore stock market listing opening next week.",
+      "background": "Dhoot Transmission, backed by Bain Capital, makes wiring harnesses and electronic components for vehicles and is headquartered in Aurangabad; the IPO combines a fresh share issue with an offer-for-sale by existing investors.",
+      "relevance": "One of several large IPOs in India's currently active new-listings market."
+    },
+    {
+      "section": "Et Markets",
+      "headline": "LIC's OFS Discount Looks Tempting, but Triggers Don't",
+      "original": "An offer-for-sale of LIC shares appears attractively discounted, but analysts note the underlying business triggers to justify buying aren't yet compelling.",
+      "terms": [
+        {
+          "t": "OFS",
+          "d": "Offer For Sale — a route for promoters/large shareholders to sell shares to the public through the stock exchange."
+        }
+      ],
+      "simple": "LIC shares are being offered at a discount that looks appealing, but analysts say there isn't yet a strong business reason to actually buy in.",
+      "background": "LIC (Life Insurance Corporation) has traded below its 2022 IPO price for much of its listed life, and the government periodically sells stakes via OFS to meet minimum public shareholding norms.",
+      "relevance": "Relevant to retail and institutional investors weighing whether to participate in the government's LIC stake sale."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "Multi-Asset Allocation Funds",
+      "original": "Multi-asset funds are emerging as a core portfolio holding for many investors due to their allocation to a diverse mix of assets, with holdings spread across equity, debt, precious metals, REITs and international equities.",
+      "terms": [
+        {
+          "t": "REIT",
+          "d": "Real Estate Investment Trust — a listed fund that lets investors buy into a portfolio of rent-generating real estate."
+        }
+      ],
+      "simple": "Mutual funds that spread money across stocks, bonds, gold, real estate trusts and even foreign stocks are becoming a popular one-stop investment option in India.",
+      "background": "Multi-asset funds are designed to smooth out volatility by diversifying across asset classes that don't always move together, and have grown in popularity in India especially during periods of stock market uncertainty.",
+      "relevance": "Useful context for retail investors considering diversified, lower-maintenance investment options."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "Elevation, Peak XV Offload Meesho Shares",
+      "original": "Venture capital investors Elevation Capital and Peak XV Partners have sold down shares in e-commerce platform Meesho.",
+      "terms": [],
+      "simple": "Two of Meesho's early big investors have sold part of their stake in the company.",
+      "background": "Meesho, a budget-focused social commerce platform, has been among India's most prominent consumer internet companies to go public or move toward listing recently, making early-investor stake sales a closely watched signal of confidence.",
+      "relevance": "Relevant to anyone tracking Meesho's shareholding and India's consumer internet listings."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "One 97 Shares worth Rs 2,038cr Change Hands",
+      "original": "Shares worth ₹2,038 crore in One97 Communications, the parent company of Paytm, changed hands in a large block deal.",
+      "terms": [],
+      "simple": "Roughly ₹2,038 crore worth of Paytm's parent company shares were traded in a big transaction.",
+      "background": "Paytm's parent One97 Communications has seen periodic large block deals as early investors like Ant Group and others have trimmed stakes over the past couple of years.",
+      "relevance": "A notable large trade worth watching for signals about investor sentiment on Paytm's parent company."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "Baroda BNP MF Names Madhu Nair CEO",
+      "original": "Baroda BNP Paribas Mutual Fund has appointed Madhu Nair as its new CEO.",
+      "terms": [
+        {
+          "t": "MF",
+          "d": "Mutual Fund."
+        }
+      ],
+      "simple": "A joint-venture mutual fund house between Bank of Baroda and France's BNP Paribas has named Madhu Nair as its new chief executive.",
+      "background": "Leadership appointments at Indian asset management companies are routine industry news, relevant to the fund house's strategy and distribution as India's mutual fund industry keeps growing.",
+      "relevance": "Routine leadership news for a mid-sized Indian mutual fund player."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "HSBC India H1 Profit Before Tax Rises 4% to $965 million",
+      "original": "HSBC's India operations reported a 4% rise in pre-tax profit to $965 million for the first half of the year.",
+      "terms": [],
+      "simple": "HSBC's India business made $965 million in profit (before tax) in the first six months of the year, up 4% from a year ago.",
+      "background": "HSBC has a significant wholesale and retail banking presence in India and India is an increasingly important profit contributor within its broader Asia operations.",
+      "relevance": "Reflects steady performance of a major foreign bank's India franchise."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "Analysts Advise Caution as CAS Skews NAVs",
+      "original": "Analysts are advising caution as changes related to the Common Application System (or a related mechanism, 'CAS') are distorting mutual fund NAV calculations.",
+      "terms": [
+        {
+          "t": "NAV",
+          "d": "Net Asset Value — the per-unit value of a mutual fund's holdings."
+        },
+        {
+          "t": "CAS",
+          "d": "In this market context, likely refers to a Cash/Collateral or Common Account Statement-related mechanism affecting fund valuations; exact expansion could not be confirmed."
+        }
+      ],
+      "simple": "Analysts are telling investors to be careful because a system change is temporarily throwing off how mutual fund per-unit values are being calculated.",
+      "background": "This item's precise technical trigger could not be confirmed via search; flagged here for reader awareness rather than fully explained.",
+      "relevance": "Relevant to mutual fund investors and distributors relying on accurate daily NAV data."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "Cost of Funds, Competition may Weigh on Muthoot Fin",
+      "original": "Rising cost of funds and increased competition may weigh on gold-loan lender Muthoot Finance's performance.",
+      "terms": [],
+      "simple": "Higher borrowing costs and more rivals in the gold-loan business could squeeze Muthoot Finance's profits going forward.",
+      "background": "Gold loan financiers like Muthoot have benefited from record gold prices boosting collateral values, but rising competition (including from banks) and funding costs are recurring concerns for analysts covering the sector.",
+      "relevance": "Relevant to investors and gold-loan borrowers tracking India's NBFC gold-financing sector."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "REITs, Publicly-listed InvITs may Get to Raise Foreign Capital via DRs",
+      "original": "Real estate investment trusts (REITs) and publicly listed infrastructure investment trusts (InvITs) may soon be allowed to raise foreign capital through depository receipts.",
+      "terms": [
+        {
+          "t": "InvIT",
+          "d": "Infrastructure Investment Trust — a listed vehicle that pools money to invest in income-generating infrastructure assets like roads or power lines."
+        },
+        {
+          "t": "DR",
+          "d": "Depository Receipt — a financial instrument that lets investors in one country buy shares/units of a company listed in another country."
+        }
+      ],
+      "simple": "India may let REITs and InvITs tap foreign investors more easily by issuing special depository-receipt instruments overseas.",
+      "background": "REITs and InvITs are relatively newer investment vehicles in India (introduced from 2014 onward) and regulators have been gradually widening the ways they can raise capital as the market matures.",
+      "relevance": "Could open up a new foreign-capital channel for India's real estate and infrastructure investment trusts."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "'Health Covers for Under 35 can Help Lower Insurer",
+      "original": "Industry commentary suggests that getting more people under 35 to buy health insurance could help lower insurers' overall costs/premiums (headline appears truncated in the original paper).",
+      "terms": [],
+      "simple": "Encouraging younger people to buy health insurance earlier could help bring down costs for insurers and, potentially, premiums generally.",
+      "background": "Younger, healthier policyholders typically claim less, improving an insurer's risk pool — a standard actuarial argument industry voices make to push early health-insurance adoption in India, where penetration among the young remains low.",
+      "relevance": "Relevant to India's health insurance penetration push; headline text was cut off in the source, so context here is inferred from surrounding phrasing."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "Microfin Lending Dips as Uneven Monsoon Alters the Landscape",
+      "original": "Microfinance lending has dipped as an uneven monsoon changes conditions for rural borrowers.",
+      "terms": [
+        {
+          "t": "Microfinance",
+          "d": "Small, typically collateral-free loans extended to low-income borrowers, often in rural areas."
+        }
+      ],
+      "simple": "Loans to small rural borrowers through microfinance institutions have slowed as unpredictable monsoon rains affect farming incomes and repayment ability.",
+      "background": "India's microfinance sector has been through a stress cycle over the past couple of years with rising defaults, and rural income volatility tied to monsoon performance is a key swing factor for the sector's health.",
+      "relevance": "Affects millions of low-income rural borrowers and the microfinance institutions serving them."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "IRDAI Asks Insurers to Fast-track Flood Claims",
+      "original": "The insurance regulator has directed insurers to speed up processing of flood-related claims.",
+      "terms": [],
+      "simple": "IRDAI wants insurance companies to settle flood-damage claims faster.",
+      "background": "This directive typically follows a period of heavy monsoon flooding in parts of India (as referenced in this edition's 'Monsoon Watch' on heavy rain forecasts), when claim backlogs can leave affected people waiting for payouts.",
+      "relevance": "Important for flood-affected policyholders awaiting timely compensation."
+    },
+    {
+      "section": "Smart Investing",
+      "headline": "Treasuries Rise as Falling Oil Eases Pressure on Fed",
+      "original": "US Treasury bond prices rose as falling oil prices eased inflationary pressure that had been weighing on the Federal Reserve's rate decisions.",
+      "terms": [
+        {
+          "t": "Treasuries",
+          "d": "US government debt securities."
+        },
+        {
+          "t": "Fed",
+          "d": "The US Federal Reserve, America's central bank."
+        }
+      ],
+      "simple": "US government bond prices went up as cheaper oil reduced worries about inflation, giving the Fed more room on interest rates.",
+      "background": "Oil prices have been falling partly on hopes of an Iran-related truce (also referenced elsewhere in this edition), and lower energy costs typically ease inflation pressure, a key input into Fed rate decisions.",
+      "relevance": "Relevant to global bond markets and expectations for US interest-rate policy."
+    },
+    {
+      "section": "Economy: Macro, Micro & More",
+      "headline": "Monsoon Watch",
+      "original": "Isolated heavy to very heavy rainfall likely over Northeast & adjoining East India during next 2 days and isolated heavy rainfall for subsequent 5 days.",
+      "terms": [],
+      "simple": "Heavy rain is forecast for Northeast and East India over the coming week, per the daily weather round-up.",
+      "background": "'Monsoon Watch' is a regular daily weather-forecast feature in this edition rather than a standalone news story.",
+      "relevance": "Relevant to agriculture, flood preparedness and daily life across East and Northeast India this week."
+    },
+    {
+      "section": "Economy: Macro, Micro & More",
+      "headline": "'GenZ may Help Drive Digital Gold Rush'",
+      "original": "Industry commentary suggests that Gen Z investors could drive a surge in digital gold investment.",
+      "terms": [
+        {
+          "t": "Digital gold",
+          "d": "A way to buy and hold small amounts of gold electronically, without needing physical storage."
+        }
+      ],
+      "simple": "Younger investors (Gen Z) may be behind a coming boom in buying gold digitally through apps rather than as physical jewellery or coins.",
+      "background": "Digital gold and gold ETFs have grown popular among younger Indian investors seeking an easy, low-cost way to invest in gold amid record gold prices, alongside traditional physical gold demand around festivals and weddings.",
+      "relevance": "Reflects a generational shift in how Indians are choosing to invest in gold."
+    },
+    {
+      "section": "Economy: Macro, Micro & More",
+      "headline": "Parliament Watch",
+      "original": "A recurring round-up feature tracking bills and business before India's Parliament; several related items (Appropriation Bill, Births and Deaths Bill, Women's Quota-Delimitation Bill, CAPF Act notice) are covered elsewhere in this edition.",
+      "terms": [],
+      "simple": "A regular column tracking what's happening in Parliament this session — not a standalone story on its own.",
+      "background": "'Parliament Watch' is a recurring feature consolidating parliamentary business rather than one specific news item.",
+      "relevance": "See the related Pure Politics section entries for the specific bills and issues before Parliament this session."
+    },
+    {
+      "section": "Economy: Macro, Micro & More",
+      "headline": "PLI-2 to Focus on Top-performing Sectors",
+      "original": "A second phase of India's Production Linked Incentive (PLI) scheme will concentrate incentives on sectors that have performed best under the first round.",
+      "terms": [
+        {
+          "t": "PLI",
+          "d": "Production Linked Incentive — a government scheme offering financial incentives to companies for incremental manufacturing/sales in India."
+        }
+      ],
+      "simple": "The government's next round of manufacturing incentives will double down on the industries that responded best the first time around.",
+      "background": "India's PLI scheme, covering sectors from electronics to pharma to solar cells, has had uneven success across industries since its 2020 launch, prompting a more targeted approach for its next phase.",
+      "relevance": "Will shape which manufacturing sectors get the biggest government support push next."
+    },
+    {
+      "section": "Economy: Macro, Micro & More",
+      "headline": "Goyal Likely to Visit US for G20 Trade Meeting",
+      "original": "Commerce Minister Piyush Goyal is likely to travel to the US for a G20 trade-related meeting.",
+      "terms": [
+        {
+          "t": "G20",
+          "d": "Group of 20 — a forum of the world's major economies."
+        }
+      ],
+      "simple": "India's commerce minister is expected to travel to the US for a G20 trade meeting.",
+      "background": "Trade diplomacy has been especially active given ongoing India-US trade negotiations, including talk of tariffs and a potential bilateral trade agreement.",
+      "relevance": "Relevant to the ongoing India-US trade relationship and broader G20 trade coordination."
+    },
+    {
+      "section": "Economy: Macro, Micro & More",
+      "headline": "Seize AI Lifeline: World Bank to Developing Economies",
+      "original": "The World Bank has urged developing economies to seize opportunities presented by AI as an economic lifeline.",
+      "terms": [],
+      "simple": "The World Bank is telling poorer countries that AI technology could be a major opportunity to boost growth if they invest in it now.",
+      "background": "Global institutions have increasingly framed AI adoption as a potential growth catalyst for developing economies, though there's also debate about AI-driven job displacement risks for such countries.",
+      "relevance": "Relevant to India and other developing economies weighing AI investment against workforce disruption risks."
+    },
+    {
+      "section": "Economy: Macro, Micro & More",
+      "headline": "Sugar Prices Stay Firm Despite Measures",
+      "original": "Sugar prices in India have remained firm even after government measures aimed at controlling them.",
+      "terms": [],
+      "simple": "Sugar prices haven't come down much even though the government has tried to manage them.",
+      "background": "India periodically adjusts sugar export quotas and ethanol-diversion rules to balance domestic price stability with sugar mill profitability, though weather and demand factors can offset such measures.",
+      "relevance": "Affects household food costs and the sugar/ethanol industry's profitability."
+    },
+    {
+      "section": "Economy: Macro, Micro & More",
+      "headline": "India Set to Add Record Distributed Renewable Energy Capacity this Financial Year",
+      "original": "India is on track to add a record amount of distributed renewable energy capacity (like rooftop solar) this financial year.",
+      "terms": [
+        {
+          "t": "Distributed renewable energy",
+          "d": "Smaller-scale renewable power generation located close to where it's used, like rooftop solar, as opposed to large centralised power plants."
+        }
+      ],
+      "simple": "India is expected to install more rooftop solar and similar small-scale clean energy this year than ever before.",
+      "background": "Schemes like PM Surya Ghar (rooftop solar subsidy) have driven strong recent growth in distributed renewable capacity as part of India's broader push toward its 500 GW non-fossil energy target by 2030.",
+      "relevance": "A positive milestone for India's clean-energy transition and rooftop solar adoption."
+    },
+    {
+      "section": "Economy: Macro, Micro & More",
+      "headline": "Finance Minister Introduces Tax Bill to Attract Global Capital, Boost Manufacturing",
+      "original": "The Finance Minister has introduced a tax bill aimed at attracting foreign capital and boosting domestic manufacturing.",
+      "terms": [],
+      "simple": "The government has introduced a new tax law meant to make India more attractive to foreign investors and support local manufacturing.",
+      "background": "This follows India's broader effort to simplify its tax code (including the new Income Tax Act replacing the decades-old 1961 law) and compete for global manufacturing investment shifting away from China.",
+      "relevance": "Could affect tax rules for both foreign investors and domestic manufacturers going forward."
+    },
+    {
+      "section": "Economy: Macro, Micro & More",
+      "headline": "Govt Moves to Restore MDR on UPI Payments",
+      "original": "The government is moving to reinstate the Merchant Discount Rate (MDR) fee on UPI digital payments.",
+      "terms": [
+        {
+          "t": "UPI",
+          "d": "Unified Payments Interface — India's instant, widely used digital payment system."
+        },
+        {
+          "t": "MDR",
+          "d": "Merchant Discount Rate — a small fee merchants pay to accept digital payments, historically waived on UPI in India."
+        }
+      ],
+      "simple": "The government is considering bringing back a small transaction fee on UPI payments for merchants, which has been zero for years.",
+      "background": "India scrapped MDR on UPI transactions in 2020 to boost digital payment adoption, funding the payments ecosystem instead through direct government subsidies to banks/NPCI; payment companies have long lobbied to reinstate some fee to make the business sustainable.",
+      "relevance": "Could affect merchants' costs and the business economics of India's massive UPI payments ecosystem if implemented."
+    },
+    {
+      "section": "Disruption: AI, Startups & Tech",
+      "headline": "GCC Net Hiring Set to Hit 200K in FY27 as IT Services Trail",
+      "original": "Global capability centres (GCCs) are expected to add around 200,000 net employees in FY27, matching last year's hiring, while information technology services firms are projected to add 115,000-135,000 net employees this fiscal, up from about 110,000 last year, according to staffing firms TeamLease Digital and Quess Corp.",
+      "terms": [
+        {
+          "t": "GCC",
+          "d": "Global Capability Centre — an in-house offshore unit that multinational companies set up in India to handle technology, operations or R&D work."
+        }
+      ],
+      "simple": "In-house tech centres that global companies run out of India are set to hire far more people next year than traditional Indian IT services firms.",
+      "background": "GCCs have grown rapidly as multinationals move more sophisticated engineering and product work to India directly, rather than outsourcing it to Indian IT vendors, shifting the balance of tech hiring in the country.",
+      "relevance": "A significant shift in India's tech job market, with GCCs overtaking traditional IT services as the bigger hiring engine."
+    },
+    {
+      "section": "Disruption: AI, Startups & Tech",
+      "headline": "Climate-tech Co InRisk Raises $27m from Bessemer, Others",
+      "original": "Climate-tech company InRisk has raised $27 million in funding from Bessemer Venture Partners and other investors.",
+      "terms": [],
+      "simple": "A climate-risk tech startup called InRisk has raised $27 million from top venture capital firms including Bessemer.",
+      "background": "Climate-risk analytics — helping insurers, businesses and governments assess exposure to weather and climate-related risks — has become a fast-growing investment category as climate volatility increases globally.",
+      "relevance": "Reflects growing investor interest in climate-risk technology startups."
+    },
+    {
+      "section": "Disruption: AI, Startups & Tech",
+      "headline": "Activate Joins Sarvam's $300 million Funding Round",
+      "original": "Venture firm Activate has joined a $300 million funding round for Indian AI company Sarvam.",
+      "terms": [],
+      "simple": "A venture capital firm called Activate has put money into a big new $300 million funding round for Sarvam, an Indian AI startup.",
+      "background": "Sarvam AI is one of India's most prominent homegrown large language model / foundation model startups, positioned as part of India's push to build sovereign AI capability, and has also drawn interest from Nvidia (also reported in this edition).",
+      "relevance": "A major funding round for a flagship Indian AI company, relevant to India's sovereign AI ambitions."
+    },
+    {
+      "section": "Disruption: AI, Startups & Tech",
+      "headline": "Nykaa Q1 Net Profit Climbs 3x to Rs 80cr, Revenue Rises 29%",
+      "original": "Beauty and fashion e-commerce company Nykaa tripled its quarterly net profit to ₹80 crore, with revenue up 29%.",
+      "terms": [],
+      "simple": "Nykaa's profit for the quarter roughly tripled to ₹80 crore, and revenue grew nearly 30%.",
+      "background": "Nykaa has been working to improve profitability across its beauty and fashion e-commerce verticals since its 2021 IPO, and strong growth here would be seen as a positive sign for India's online beauty retail market.",
+      "relevance": "A strong quarter for one of India's most-watched consumer internet companies."
+    },
+    {
+      "section": "Disruption: AI, Startups & Tech",
+      "headline": "Persistent Launches $1.6 billion Bridge Loan for Nagarro Acquisition",
+      "original": "IT services firm Persistent Systems has arranged a $1.6 billion bridge loan to fund its acquisition of Nagarro.",
+      "terms": [
+        {
+          "t": "Bridge loan",
+          "d": "A short-term loan used to cover costs until longer-term financing is arranged."
+        }
+      ],
+      "simple": "Persistent Systems has lined up $1.6 billion in short-term financing to help pay for buying IT firm Nagarro.",
+      "background": "This is a large acquisition for Persistent, an Indian IT services and digital engineering company that has been expanding aggressively; Nagarro is itself a sizeable global digital engineering firm.",
+      "relevance": "One of the largest recent M&A moves in India's IT services sector."
+    },
+    {
+      "section": "Disruption: AI, Startups & Tech",
+      "headline": "Sidbi Tweaks Fund Rules, Nudges VCs to Draw Capital Faster",
+      "original": "SIDBI has changed rules for its fund-of-funds scheme to encourage venture capital funds to draw down committed capital more quickly.",
+      "terms": [
+        {
+          "t": "SIDBI",
+          "d": "Small Industries Development Bank of India."
+        },
+        {
+          "t": "VC",
+          "d": "Venture Capital."
+        }
+      ],
+      "simple": "India's small-business development bank has tweaked how it releases money to VC funds, pushing them to actually deploy committed capital faster instead of sitting on it.",
+      "background": "SIDBI runs the Fund of Funds for Startups (FFS) scheme, which channels government-backed capital into VC funds investing in Indian startups; slow capital deployment by VCs has been a recurring concern for the scheme's effectiveness.",
+      "relevance": "Could speed up the flow of government-backed venture capital into Indian startups."
+    },
+    {
+      "section": "Disruption: AI, Startups & Tech",
+      "headline": "Nvidia Plugs into India's Sovereign AI Stack, Joins Sarvam's $75 million Raise",
+      "original": "Nvidia has joined a $75 million funding round for Indian AI company Sarvam, as part of its involvement in India's 'sovereign AI' push.",
+      "terms": [
+        {
+          "t": "Sovereign AI",
+          "d": "A country's effort to build and control its own AI infrastructure and models rather than depend entirely on foreign providers."
+        }
+      ],
+      "simple": "Chip giant Nvidia has invested in Sarvam, an Indian AI startup, backing India's effort to build homegrown AI capability.",
+      "background": "Nvidia has been investing across the AI ecosystem globally, and its involvement in Sarvam ties into India's government-backed 'IndiaAI Mission' to build sovereign large language models trained on Indian languages and needs.",
+      "relevance": "Reflects growing global tech-industry involvement in India's AI ambitions, alongside the day's other big Nvidia-linked story on Anthropic's compute deal."
+    },
+    {
+      "section": "Disruption: AI, Startups & Tech",
+      "headline": "Nasdaq-bound Yellow.ai Leans on AI Services Push to Boost Growth",
+      "original": "Conversational-AI company Yellow.ai, which is working toward a Nasdaq listing, is leaning on AI services to boost growth ahead of its planned US listing.",
+      "terms": [],
+      "simple": "Yellow.ai, an Indian AI chatbot/customer-service company aiming to list on the Nasdaq, is expanding its AI services business to drive growth before going public.",
+      "background": "Yellow.ai is among a small group of Indian tech companies eyeing direct US listings rather than Indian exchanges, reflecting some startups' preference for Nasdaq's global investor base and valuations.",
+      "relevance": "Relevant to India's trend of promising tech startups choosing to list overseas rather than domestically."
+    },
+    {
+      "section": "Sports World Play",
+      "headline": "FIFA: Civil War",
+      "original": "The crisis triggered by FIFA President Gianni Infantino's abandoned proposal to sell off a stake in the World Cup deepened on Tuesday with influential figures publicly distancing themselves from the project while scrambling to contain the damage.",
+      "terms": [],
+      "simple": "A major internal conflict has broken out at football's governing body FIFA after president Gianni Infantino's plan to sell a stake in the World Cup collapsed, with senior figures now publicly distancing themselves from it.",
+      "background": "FIFA has faced repeated governance controversies over the years; a proposal to monetise a stake in the World Cup itself would have been a major and unusual commercialisation move, explaining the strong internal pushback.",
+      "relevance": "A significant governance crisis at the top of world football's governing body."
+    },
+    {
+      "section": "Sports World Play",
+      "headline": "FIFA Owes Millions to World Cup Host Cities",
+      "original": "FIFA reportedly owes millions of dollars to cities that hosted World Cup matches.",
+      "terms": [],
+      "simple": "Football's governing body owes unpaid money to several cities that hosted World Cup games.",
+      "background": "Host cities for major FIFA tournaments often incur significant costs for infrastructure and security, and disputes over promised payments/reimbursements from FIFA have surfaced around past tournaments.",
+      "relevance": "Relevant to host cities and the broader debate over the costs and benefits of hosting FIFA tournaments."
+    },
+    {
+      "section": "Sports World Play",
+      "headline": "Neeraj to Face Elite Javelin Field in Lausanne",
+      "original": "Indian javelin star Neeraj Chopra will compete against an elite field of throwers at the Lausanne Diamond League meet.",
+      "terms": [
+        {
+          "t": "Diamond League",
+          "d": "The top-tier annual global athletics circuit."
+        }
+      ],
+      "simple": "Olympic champion javelin thrower Neeraj Chopra will take on some of the world's best throwers at a major athletics meet in Lausanne, Switzerland.",
+      "background": "Neeraj Chopra, India's Tokyo Olympics gold medallist in javelin, remains India's most prominent track-and-field athlete and regularly competes on the Diamond League circuit against top global throwers.",
+      "relevance": "A high-profile international sporting event for India's biggest track-and-field star."
+    },
+    {
+      "section": "Sports World Play",
+      "headline": "Stokes Reveals England Coaching Ambition",
+      "original": "England cricket captain Ben Stokes has revealed ambitions to move into coaching.",
+      "terms": [],
+      "simple": "England's cricket captain Ben Stokes says he'd like to get into coaching at some point.",
+      "background": "Stokes has led England's Test team through its aggressive 'Bazball' era under coach Brendon McCullum, and player-to-coach transitions are a common career path for senior international cricketers.",
+      "relevance": "Relevant to cricket fans following Stokes's career trajectory and England's future coaching plans."
+    },
+    {
+      "section": "Sports World Play",
+      "headline": "Chelsea Undecided on Mudryk Future: Alonso",
+      "original": "Chelsea manager Xabi Alonso says the club hasn't yet decided on winger Mykhailo Mudryk's future.",
+      "terms": [],
+      "simple": "Chelsea's manager says the club is still undecided about what happens next with player Mykhailo Mudryk.",
+      "background": "Mudryk, a Ukrainian winger signed by Chelsea in a big-money 2023 deal, has faced an anti-doping suspension that has clouded his career at the club, making his future a recurring subject of speculation.",
+      "relevance": "Relevant to Chelsea fans and followers of the ongoing Mudryk doping-case fallout."
+    },
+    {
+      "section": "Around the World",
+      "headline": "Trump Mulls Ban on Chinese Data Centre Components",
+      "original": "The Trump administration is drafting a ban on imports of new models of Chinese data centre components by the United States, four people familiar with the matter said, as it seeks to protect the infrastructure that undergirds the artificial intelligence (AI) boom.",
+      "terms": [],
+      "simple": "The US government is working on a plan to block new Chinese-made data centre hardware, aiming to protect the infrastructure underpinning America's AI boom.",
+      "background": "This follows a broader pattern of US-China tech restrictions covering chips and related hardware, part of an ongoing effort to limit China's access to and influence over critical AI infrastructure supply chains.",
+      "relevance": "Could affect global data centre supply chains and escalate US-China tech tensions further."
+    },
+    {
+      "section": "Around the World",
+      "headline": "'America Used up Almost All Its Long-range Missiles in Iran War'",
+      "original": "A report claims the US used up nearly all of its long-range missile stockpile during its recent conflict/strikes involving Iran.",
+      "terms": [],
+      "simple": "A report says the US has nearly exhausted its stock of long-range missiles after its recent military action involving Iran.",
+      "background": "This follows a period of heightened US-Iran military tension, including reported American strikes, that has drawn scrutiny of US munitions stockpiles and defence-industrial production capacity.",
+      "relevance": "Raises questions about US military readiness and its ability to sustain future extended conflicts."
+    },
+    {
+      "section": "Around the World",
+      "headline": "US June Trade Deficit Falls by 5.6% On-mth as Imports Shrink",
+      "original": "The US trade deficit fell 5.6% month-on-month in June as imports declined.",
+      "terms": [],
+      "simple": "America's trade gap narrowed in June because it imported less.",
+      "background": "US trade deficit figures are closely watched amid ongoing tariff actions under the Trump administration, which have been aimed at reducing the country's reliance on imports.",
+      "relevance": "A data point relevant to assessing the impact of recent US tariff policy on trade flows."
+    },
+    {
+      "section": "Around the World",
+      "headline": "Wall Street Celebrates",
+      "original": "US stock markets rallied, with Wall Street in a celebratory mood.",
+      "terms": [],
+      "simple": "US stocks had a strong, upbeat trading day.",
+      "background": "Wall Street gains in this edition likely tie to easing oil prices and reduced Fed-related inflation worries, both referenced elsewhere in this edition.",
+      "relevance": "Reflects positive sentiment in US markets that typically influences global investor mood, including in India."
+    },
+    {
+      "section": "Around the World",
+      "headline": "Tehran May Allow Europe to Clear Mines in Hormuz",
+      "original": "Iran may allow European forces to help clear mines from the Strait of Hormuz.",
+      "terms": [
+        {
+          "t": "Strait of Hormuz",
+          "d": "A narrow, strategically vital waterway between Iran and the Arabian Peninsula through which a large share of the world's oil shipments pass."
+        }
+      ],
+      "simple": "Iran might let European countries help remove naval mines from the critical Strait of Hormuz shipping route.",
+      "background": "The Strait of Hormuz has faced disruption risk amid recent Iran-related tensions; any mine-clearing cooperation would signal de-escalation and support freer oil shipping through the strait.",
+      "relevance": "Important for global oil markets given Hormuz's role as a major oil transit chokepoint."
+    },
+    {
+      "section": "Around the World",
+      "headline": "Tesla's China-made EV Sales Up 38% On-yr",
+      "original": "Tesla's China-manufactured electric vehicle sales rose 38% year-on-year.",
+      "terms": [],
+      "simple": "Tesla sold 38% more Chinese-made electric cars compared with a year earlier.",
+      "background": "Tesla's Shanghai Gigafactory is central to both its China sales and its exports to other markets, and China remains one of the world's largest and most competitive EV markets.",
+      "relevance": "A positive signal for Tesla amid intense EV competition from Chinese rivals like BYD."
+    },
+    {
+      "section": "Around the World",
+      "headline": "Of 72k Migrants, 70k Have Returned: Spain",
+      "original": "Spanish authorities say that of 72,000 migrants tracked, 70,000 have returned (likely referring to a repatriation or voluntary-return programme).",
+      "terms": [],
+      "simple": "Spain says nearly all of a tracked group of 72,000 migrants — about 70,000 — have gone back to their countries of origin.",
+      "background": "European countries, including Spain, have run various migrant return and repatriation programmes amid continued migration pressure from Africa and elsewhere; specific programme details for this figure could not be independently confirmed.",
+      "relevance": "Relevant to Europe's ongoing migration policy debates."
+    },
+    {
+      "section": "Around the World",
+      "headline": "War Cost to World = '2.6 b Barrels of Oil'",
+      "original": "A report estimates that a recent conflict cost the world the equivalent of 2.6 billion barrels of oil (likely in terms of disrupted supply, price impact, or economic cost translated into oil-equivalent terms).",
+      "terms": [],
+      "simple": "A new estimate says a recent war's economic toll on the world was equivalent to 2.6 billion barrels of oil.",
+      "background": "This figure likely relates to the broader economic fallout of recent Iran-linked tensions/conflict referenced elsewhere in this edition, though the precise methodology behind the estimate could not be confirmed via search.",
+      "relevance": "Illustrates the scale of global economic disruption tied to recent Middle East tensions."
+    },
+    {
+      "section": "Around the World",
+      "headline": "Nvidia-Backed AI Startup Seals $10b Anthropic Deal",
+      "original": "Anthropic, maker of the Claude AI chatbot, has signed a $10 billion, six-year computing deal with Volta Infra Holdings, a new Nvidia-backed cloud infrastructure startup, for capacity at a 133-megawatt data centre in Norway built with Nvidia's latest Vera Rubin chips, delivered in partnership with Bitdeer Technologies.",
+      "terms": [],
+      "simple": "Anthropic has struck a massive $10 billion, six-year deal to secure computing power from Volta, a brand-new data-centre startup backed by Nvidia, to keep up with growing demand for its Claude AI models.",
+      "background": "Volta was only founded in January 2026 by former Brookfield executives and has quickly signed major deals, including this Anthropic contract and a separate $5 billion infrastructure financing programme; Anthropic has been signing a string of large compute deals this year (also with SpaceX and AMD) as it races to expand capacity, including a reported $65 billion funding round and talk of a possible stock market listing.",
+      "relevance": "A major deal for Anthropic (the company behind this AI assistant) — flagged as a notable development worth being aware of."
+    },
+    {
+      "section": "Around the World",
+      "headline": "Incoming Apple CEO Ternus Rehires Former VP Legros",
+      "original": "John Ternus, set to become Apple's next CEO, has rehired former Apple vice-president Legros.",
+      "terms": [],
+      "simple": "Apple's incoming chief executive is bringing back a former company executive to rejoin the leadership team.",
+      "background": "John Ternus, currently Apple's senior VP of hardware engineering, has been widely reported as the likely successor to Tim Cook as Apple CEO; leadership reshuffles ahead of such transitions are closely watched by investors.",
+      "relevance": "Relevant to Apple's leadership succession, a closely watched story given the company's scale and influence."
+    },
+    {
+      "section": "Around the World",
+      "headline": "'Hormuz Deal With Iran Today' Oil Slips Below $80 on Truce Hope",
+      "original": "Hopes of a deal with Iran over the Strait of Hormuz, along with broader truce hopes, pushed oil prices below $80 a barrel.",
+      "terms": [],
+      "simple": "Oil prices dropped below $80 a barrel as traders grew hopeful about a deal involving Iran and the Hormuz strait, easing supply-disruption fears.",
+      "background": "Ties directly to the Hormuz mine-clearing item elsewhere in this edition — de-escalation signals around the strait tend to ease the risk premium built into oil prices.",
+      "relevance": "Relevant to global energy prices and inflation outlooks worldwide, including India as a major oil importer."
+    },
+    {
+      "section": "Around the World",
+      "headline": "DiCaprio, Bezos Plan $200m Project for Endangered Species",
+      "original": "Leonardo DiCaprio and Jeff Bezos are planning a $200 million project focused on protecting endangered species.",
+      "terms": [],
+      "simple": "Actor Leonardo DiCaprio and Amazon founder Jeff Bezos are teaming up on a $200 million initiative to help protect endangered species.",
+      "background": "Both DiCaprio (through his environmental foundation) and Bezos (through the Bezos Earth Fund) have separately funded large conservation and climate initiatives in recent years, making a joint project a notable combination of star power and capital.",
+      "relevance": "A large private conservation funding commitment relevant to global biodiversity protection efforts."
+    }
+  ]
+}
